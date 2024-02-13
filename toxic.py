@@ -1,3 +1,5 @@
+""" open Source by Toxic -143
+"""
 #created by SHANTO
 #!/usr/bin/python3
 #---------------------[IMPORT]---------------------#
